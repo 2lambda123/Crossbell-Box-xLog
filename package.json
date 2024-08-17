@@ -154,7 +154,7 @@
     "unified": "11.0.4",
     "unist-builder": "4.0.0",
     "unist-util-visit": "5.0.0",
-    "vfile": "6.0.1",
+    "vfile": "6.0.2",
     "viem": "1.21.1",
     "wagmi": "1.4.13",
     "xregexp": "5.1.1",
