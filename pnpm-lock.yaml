@@ -114,8 +114,8 @@ importers:
         specifier: 4.36.1
         version: 4.36.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@uiw/codemirror-extensions-events':
-        specifier: 4.22.1
-        version: 4.22.1(@codemirror/view@6.26.3)
+        specifier: 4.23.0
+        version: 4.23.0(@codemirror/view@6.26.3)
       '@urql/core':
         specifier: 5.0.6
         version: 5.0.6
@@ -2317,8 +2317,8 @@ packages:
     resolution: {integrity: sha512-c6EIQRHhcpl6+tO8EMR+kjkkV+ugUNXOmeASA1rlzkd8EPIriavpWoiEz1HR/VLhbVIdhqnV6E7JZm00cBDx2A==}
     engines: {node: ^16.0.0 || >=18.0.0}
 
-  '@uiw/codemirror-extensions-events@4.22.1':
-    resolution: {integrity: sha512-yQVl8lM9LHNca/v+Vqpo6C9OdjpfZZ2MfSm0JTmYBQdDLBo7R98wx9BrDSiD7sX/CZZTPTo82I2o9ZLLeD2tvQ==}
+  '@uiw/codemirror-extensions-events@4.23.0':
+    resolution: {integrity: sha512-QlUSFT/5P+0YhBM1FtRFdanj+IctLOrwNOi33ROgBwUx6edx/ihu7je9dUrIRduNE7LLdaEhzbC1Gbn5orydDw==}
     peerDependencies:
       '@codemirror/view': '>=6.0.0'
 
@@ -9325,7 +9325,7 @@ snapshots:
       '@typescript-eslint/types': 7.2.0
       eslint-visitor-keys: 3.4.3
 
-  '@uiw/codemirror-extensions-events@4.22.1(@codemirror/view@6.26.3)':
+  '@uiw/codemirror-extensions-events@4.23.0(@codemirror/view@6.26.3)':
     dependencies:
       '@codemirror/view': 6.26.3
 
