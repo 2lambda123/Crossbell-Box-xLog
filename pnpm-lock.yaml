@@ -258,8 +258,8 @@ importers:
         specifier: 7.1.0
         version: 7.1.0
       pinyin-pro:
-        specifier: 3.20.4
-        version: 3.20.4
+        specifier: 3.24.2
+        version: 3.24.2
       plaiceholder:
         specifier: 3.0.0
         version: 3.0.0(sharp@0.32.6)
@@ -5634,8 +5634,8 @@ packages:
     resolution: {integrity: sha512-dMACeu63HtRLmCG8VKdy4cShCPKaYDR4youZqoSWLxl5Gu99HUw8bw75thbPv9Nip+H+QYX8o3ZJbTdVZZ2TVg==}
     hasBin: true
 
-  pinyin-pro@3.20.4:
-    resolution: {integrity: sha512-R4/TG7jgr2UTLqrhiirZf5Gg5RpCsYZlbde7hJs8vF7JUHPuozIyCwDw1WJthielgy8jxuBk1TDvWBPh6TYvFw==}
+  pinyin-pro@3.24.2:
+    resolution: {integrity: sha512-5tPyLhxT4CZ9dWqQRqm3X5ADdS18Sb2w0ranNBgr6jCrqO4O8gtfuyqG7Y6+1Mre+0n2VlhKDz+3P5oqSLrkOw==}
 
   pirates@4.0.6:
     resolution: {integrity: sha512-saLsH7WeYYPiD25LDuLRRY/i+6HaPYr6G1OUlN39otzkSTxKnubR9RTxS3/Kk50s1g2JTgFwWQDQyplC5/SHZg==}
@@ -13624,7 +13624,7 @@ snapshots:
       sonic-boom: 2.8.0
       thread-stream: 0.15.2
 
-  pinyin-pro@3.20.4: {}
+  pinyin-pro@3.24.2: {}
 
   pirates@4.0.6: {}
 
